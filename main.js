@@ -1,10 +1,10 @@
 var config = {
-    apiKey: "AIzaSyDjWsPHeua1_Aqeh5cVBwovHYnYONoiyy0",
-    authDomain: "webpushnotification-b7bff.firebaseapp.com",
-    databaseURL: "https://webpushnotification-b7bff.firebaseio.com",
-    projectId: "webpushnotification-b7bff",
-    storageBucket: "webpushnotification-b7bff.appspot.com",
-    messagingSenderId: "29012639818"
+    apiKey: "...",
+    authDomain: "...",
+    databaseURL: "....",
+    projectId: "....",
+    storageBucket: ".....",
+    messagingSenderId: "..."
   };
   firebase.initializeApp(config);
 
